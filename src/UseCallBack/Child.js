@@ -8,7 +8,7 @@ function Child(props) {
     console.log("Child component called");
     return (
         <div>
-            <h1>Child Component {countertwo}</h1>
+            <h4>Child Component {countertwo}</h4>
         </div>
     );
 }
